@@ -1,0 +1,25 @@
+.sidebar {
+  position: fixed;
+  width: 100px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color:#f1f6f9;
+  font-weight:bold;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding-left: 0px;
+
+}
+
+.sidebar a{
+   color:#006a71;
+   font-weight:bold;
+   text-shadow: 0 10px 30px rgba(0,0,0,.1);
+}
+
+.page-content {
+  margin-left: 100px;
+}
